@@ -38,7 +38,7 @@ public void teardown() {
 }
 
  @Test
-public void TestLardeur() throws Exception {
+public void TestHotel() throws Exception {
 
 	driver.get("http://192.168.105.76:9999/HotelWebapp-1.0-SNAPSHOT");
 	
